@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Keerthika 👋
 
-<!--
-**keerthika-MCA/keerthika-MCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
+☁️ Interested in Cloud Computing
+💻 Learning Java and Software Development
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Java Swing
+* Basic Networking
+* Cloud Computing (Learning)
+
+## Projects
+
+* Student Reminder App
+
+## Goals
+
+* Become a Cloud Engineer
+* Learn AWS and Cloud Development
