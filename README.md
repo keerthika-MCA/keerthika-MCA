@@ -9,11 +9,13 @@
 * Java
 * Java Swing
 * Basic Networking
-* Cloud Computing (Learning)
+* Cloud Computing
+* similar with Cloud services
 
 ## Projects
 
 * Student Reminder App
+* Chatbot(Using Amazon LEX)
 
 ## Goals
 
